@@ -5,7 +5,7 @@
 // @description  Add Egyptian area codes + VC4 calculator
 // @match        https://provisioningportal.te.eg/provisioningPortal/#/search/search-for-subscriber
 // @grant        none
-// @icon         https://myofficevpn.te.eg/dana-na/auth/url_default/welcome.cgi?p=logo&signinId=url_default
+// @icon         https://my.te.eg/echannel/favicon.ico
 // @author       seif mousa
 // @updateURL    https://raw.githubusercontent.com/MRAnubis-0/PP-Subscriber-Frame-Calculator/refs/heads/main/PP%20Subscriber%20Frame%20Calculator.js
 // @downloadURL  https://raw.githubusercontent.com/MRAnubis-0/PP-Subscriber-Frame-Calculator/refs/heads/main/PP%20Subscriber%20Frame%20Calculator.js
