@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PP Subscriber Frame Calculator
 // @namespace    https://github.com/MRAnubis-0
-// @version      1.1
+// @version      1.2
 // @description  Add Egyptian area codes + VC4 calculator
 // @match        https://provisioningportal.te.eg/provisioningPortal/#/search/search-for-subscriber
 // @grant        none
