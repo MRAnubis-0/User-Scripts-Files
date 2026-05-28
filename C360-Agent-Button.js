@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         CS360 Agent Assistant Button Unlock
 // @namespace    https://github.com/MRAnubis-0
-// @version      1.0
+// @version      1.1
 // @match        https://customer360.te.eg/*
 // @run-at       document-idle
 // @icon         https://customer360.te.eg/assets/media/new-release/c360%20vector.svg
 // @author       seif mousa
-// @updateURL    https://raw.githubusercontent.com/MRAnubis-0/PP-Subscriber-Frame-Calculator/refs/heads/main/C360-Agent-Button.js
-// @downloadURL  https://raw.githubusercontent.com/MRAnubis-0/PP-Subscriber-Frame-Calculator/refs/heads/main/C360-Agent-Button.js
+// @updateURL    https://raw.githubusercontent.com/MRAnubis-0/User-Scripts-Files/refs/heads/main/C360-Agent-Button.js
+// @downloadURL  https://raw.githubusercontent.com/MRAnubis-0/User-Scripts-Files/refs/heads/main/C360-Agent-Button.js
 
 // ==/UserScript==
 
