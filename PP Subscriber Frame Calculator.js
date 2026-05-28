@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         PP Subscriber Frame Calculator
 // @namespace    https://github.com/MRAnubis-0
-// @version      1.2
+// @version      1.3
 // @description  Add Egyptian area codes + VC4 calculator
 // @match        https://provisioningportal.te.eg/provisioningPortal/#/search/search-for-subscriber
 // @grant        none
-// @icon         https://my.te.eg/echannel/favicon.ico
+// @icon         https://provisioningportal.te.eg/provisioningPortal/assets/images/We_min_logo.svg
 // @author       seif mousa
 // @updateURL    https://raw.githubusercontent.com/MRAnubis-0/PP-Subscriber-Frame-Calculator/refs/heads/main/PP%20Subscriber%20Frame%20Calculator.js
 // @downloadURL  https://raw.githubusercontent.com/MRAnubis-0/PP-Subscriber-Frame-Calculator/refs/heads/main/PP%20Subscriber%20Frame%20Calculator.js
